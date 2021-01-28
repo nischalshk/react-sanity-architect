@@ -64,7 +64,7 @@ function Project() {
                   </p>
                   <a
                     href={project.link}
-                    rel='noopener noreferer'
+                    rel='noopener noreferrer'
                     target='_blank'
                     className='text-red-500 font-bold hover:underline hover:text-red-400 text-xl'
                   >
